@@ -9,10 +9,10 @@ gantt
     title schedule
 
     section 任務1
-    研擬計畫:        a1, 2024-10-03, 2d
+    研擬計畫:        a1, 2024-10-03, 1d
 
     section 任務2
-    任務分配:        a2, after a1, 2d
+    任務分配:        a2, after a1, 1d
 
     section 任務3
     產品設定:        a3, after a2, 5d
