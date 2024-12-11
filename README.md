@@ -281,3 +281,7 @@ graph TD
 1.	會員可透過Facebook登入，沒有會員可以點擊「會員註冊」
 2.	會員可透過Facebook註冊，已經是會員可以點擊「前往登入」
 ***
+
+# ERD圖 (Entity-Relationship Diagram)
+![image](ERD圖.png)
+***
